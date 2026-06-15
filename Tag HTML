@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lost Luggage Contact</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="font-family:Arial;max-width:600px;margin:auto;padding:20px;">
+    <h1>Lost Luggage</h1>
+
+    <p>If you've found this luggage, please contact:</p>
+
+    <p>
+        <strong>Name:</strong>Shaun Bradley-Clark<br>
+        <strong>Phone:</strong> +44 7xxx xxxxxx<br>
+        <strong>Email:</strong> you@example.com
+    </p>
+
+    <p>Thank you!</p>
+</body>w
+</html>
